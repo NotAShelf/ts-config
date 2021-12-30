@@ -4,7 +4,7 @@
   "version": "1.1.1",
   "author": "NotAShelf <me@notashelf.dev>",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/NotAShelf/ts-config",
   "files": [
     "tsconfig.json",
     "dom.json",
@@ -13,8 +13,5 @@
   "main": "./tsconfig.json",
   "engines": {
     "node": ">=10"
-  },
-  "dependencies": {
-    "tsconfig": "git+git@github.com:NotAShelf/tsconfig.git"
   }
 }
