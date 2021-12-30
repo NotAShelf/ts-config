@@ -15,6 +15,6 @@
     "node": ">=10"
   },
   "dependencies": {
-    "tsconfig": "git+https://git.frozendev.tk/NotAShelf/ts-config.git"
+    "tsconfig": "git+git@github.com:NotAShelf/tsconfig.git"
   }
 }
